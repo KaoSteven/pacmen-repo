@@ -11,7 +11,7 @@ Factory for making pacmen
 <li>Reload this Page</li>
 </ol>
 
-<img src="PacMan1.png">
+<img src="/images/PacMan1.png">
 
 <p>
 MIT License
