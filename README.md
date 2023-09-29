@@ -10,7 +10,12 @@ Factory for making pacmen
 <li>Pacmans are moving around the screen</li>
 <li>Reload this Page</li>
 </ol>
-
+<h3>Future Improvements</h3>
+<ul>
+<li>Add control with Arrows </li>
+<li>Add voice</li>
+<li>change color or size like Mario</li>
+</ul>
 <img src="/images/PacMan1.png">
 
 <p>
